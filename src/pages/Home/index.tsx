@@ -21,7 +21,7 @@ const Home = () => {
         >
           alert
         </button>
-        <a href="http://127.0.0.1:3003/demo">链接跳转</a>
+        <a href="http://127.0.0.1:3000/demo">链接跳转</a>
         <span
           onClick={(): void => {
             navigate("/demo");
